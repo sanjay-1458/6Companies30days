@@ -1,6 +1,6 @@
-# Power Of Numbers 
+# Overlap Circle and Rectangle.md
 <a href="https://leetcode.com/problems/circle-and-rectangle-overlapping/description/">
-  <img src="./lib/leetcode-3628885-3030025.webp" width="50"/>
+  <img src="../lib/leetcode-3628885-3030025.webp" width="50"/>
 </a>
 
 Given a number and its reverse. Find that number raised to the power of its own reverse.You are given a circle represented as (radius, xCenter, yCenter) and an axis-aligned rectangle represented as (x1, y1, x2, y2), where (x1, y1) are the coordinates of the bottom-left corner, and (x2, y2) are the coordinates of the top-right corner of the rectangle.
