@@ -1,6 +1,6 @@
 # Who is the Winner? 
 <a href="https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/">
-  <img src="./lib/leetcode-3628885-3030025.webp" width="50"/>
+  <img src="../lib/leetcode-3628885-3030025.webp" width="50"/>
 </a>
 
 There are n friends that are playing a game. The friends are sitting in a circle and are numbered from 1 to n in clockwise order. More formally, moving clockwise from the ith friend brings you to the (i+1)th friend for 1 <= i < n, and moving clockwise from the nth friend brings you to the 1st friend.
