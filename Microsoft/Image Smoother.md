@@ -1,4 +1,4 @@
-# Envelopes and Dolls
+# Problem
 <a href="https://leetcode.com/problems/image-smoother/description/">
   <img src="../lib/leetcode-3628885-3030025.webp" width="50"/>
 </a>
